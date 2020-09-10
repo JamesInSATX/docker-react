@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - and was changed on the Feature branch
+          Learn React - corrected text to pass test
         </a>
       </header>
     </div>
