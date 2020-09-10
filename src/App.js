@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lea###rn Re###act - and was changed on the Feature branch
+          Learn React - corrected text to pass test
         </a>
       </header>
     </div>
